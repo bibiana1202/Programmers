@@ -1,10 +1,10 @@
 # [unrated] a와 b 출력하기 - 181951 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181951) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181951?language=csharp) 
 
 ### 성능 요약
 
-메모리: 62.5 MB, 시간: 182.23 ms
+메모리: 16.8 MB, 시간: 18.87 ms
 
 ### 구분
 
