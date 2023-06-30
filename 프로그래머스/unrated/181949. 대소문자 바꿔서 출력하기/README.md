@@ -1,10 +1,10 @@
 # [unrated] 대소문자 바꿔서 출력하기 - 181949 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181949) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181949?language=csharp) 
 
 ### 성능 요약
 
-메모리: 70.9 MB, 시간: 146.89 ms
+메모리: 16.2 MB, 시간: 17.02 ms
 
 ### 구분
 
