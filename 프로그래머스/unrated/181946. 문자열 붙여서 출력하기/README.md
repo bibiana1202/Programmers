@@ -1,10 +1,10 @@
 # [unrated] 문자열 붙여서 출력하기 - 181946 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181946) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181946?language=csharp) 
 
 ### 성능 요약
 
-메모리: 63.8 MB, 시간: 153.71 ms
+메모리: 16.5 MB, 시간: 17.02 ms
 
 ### 구분
 
